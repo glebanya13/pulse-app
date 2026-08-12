@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "197143610455",
+    "project_id": "pulse-by",
+    "storage_bucket": "pulse-by.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197143610455:android:2141f8686b84361fb4cf12",
+        "android_client_info": {
+          "package_name": "by.pulse.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197143610455-kg3lr2t9vn25kghb4dj47f7olfle45tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlzqoM0R1gEVWcgsLBt-OLySEm32z-Y94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197143610455-kg3lr2t9vn25kghb4dj47f7olfle45tb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197143610455-sbdrcs61v4lm5mpinj30barg2jehdnft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "by.pulse.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
