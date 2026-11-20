@@ -1,4 +1,4 @@
-# ⚡ Pulse (Пульс) — City Events & Nightlife Discovery App
+# ⚡ Pulse
 
 Pulse is a sleek, cross-platform mobile application engineered for discovering parties, concerts, nightlife, cultural exhibitions, and city events. Built with Flutter, Riverpod, and Yandex MapKit, Pulse connects urban explorers, music enthusiasts, and party-goers with real-time event feeds, interactive venue maps, live attendee chatrooms, and instant ticket bookings.
 
